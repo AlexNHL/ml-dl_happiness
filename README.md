@@ -1,4 +1,4 @@
-# Exploring Happiness Correlations with Machine Learning and Deep Learning
+## Exploring Happiness Correlations with Machine Learning and Deep Learning
 
 * Explored correlations between happiness scores and various socioeconomic factors using statistical analysis
 * Applied machine learning methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
